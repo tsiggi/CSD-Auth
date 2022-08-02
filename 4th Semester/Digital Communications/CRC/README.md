@@ -30,7 +30,9 @@ H εργασία ([Εκφώνηση της *εργασίας*](https://github.co
 <br />
 
 ### Digital Communication CRC Project
-Assignment ([*Assignment* description (GR)](https://github.com/tsingi-chris/CSD-Auth/blob/main/4th%20Semester/Digital%20Communications/CRC/DC-PROJECT-2021-2022.pdf))  [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/4th%20Semester/Digital%20Communications/CRC/DC-PROJECT-2021-2022.pdf) for the [Digital Communication](https://elearning.auth.gr/course/view.php?id=4101) course (Spring 2021/22) at the computer science department @[CSD](https://www.csd.auth.gr/en/) of Aristotle University of Thessaloniki @[AUTH](https://www.auth.gr/en/). <br />
+Assignment ([*Assignment* description (GR)](https://github.com/tsingi-chris/CSD-Auth/blob/main/4th%20Semester/Digital%20Communications/CRC/DC-PROJECT-2021-2022.pdf))  [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/4th%20Semester/Digital%20Communications/CRC/DC-PROJECT-2021-2022.pdf) for the [Digital Communication](https://elearning.auth.gr/course/view.php?id=4101) course (Spring 2021/22) at the computer science department @[CSD](https://www.csd.auth.gr/en/) of Aristotle University of Thessaloniki @[AUTH](https://www.auth.gr/en/).
+<br />
+<br />
 
 ### Information
 - This project is a CRC simulation algorithm.
