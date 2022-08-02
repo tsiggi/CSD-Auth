@@ -1,10 +1,10 @@
 # 7th Lab Assignment
-<br />
-
-This is a Parity bit focused assignment, that was made with **Octave** . <br />
 
 
-Assignment [description](https://github.com/tsingi-chris/CSD-Auth/blob/main/4th%20Semester/Digital%20Communications/7th-Lab/Lab07.pdf) [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/4th%20Semester/Digital%20Communications/7th-Lab/Lab07.pdf) . <br />
+This is a Parity bit focused assignment, that was made with **Octave** . <br /> <br />
+
+
+Assignment [description](https://github.com/tsingi-chris/CSD-Auth/blob/main/4th%20Semester/Digital%20Communications/7th-Lab/Lab07.pdf) [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/4th%20Semester/Digital%20Communications/7th-Lab/Lab07.pdf) . <br /><br />
 
 Helpful links about parity bit :
 * [my report (GR)](https://github.com/tsingi-chris/CSD-Auth/blob/main/4th%20Semester/Digital%20Communications/7th-Lab/Lab%20Report.pdf) [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/4th%20Semester/Digital%20Communications/7th-Lab/Lab%20Report.pdf),
