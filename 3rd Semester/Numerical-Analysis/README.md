@@ -6,7 +6,7 @@
 - [ReadMe in English](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis#readme-in-english)
 
 ## ReedMe in Greek
-Αυτός ο φάκελος περιέχει 2 Εργασίες που ανατέθηκαν στην Αριθμητική Ανάλυση (2021-2022). <br />
+Αυτός ο φάκελος περιέχει 2 Εργασίες που ανατέθηκαν στην Αριθμητική Ανάλυση (2021-2022). Επιπλέον περιέχει, ότι ανέβηκε στο elearning δηλαδή τις [διαφάνιες](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/Slides) του μαθήματος καθώς και ολοκληρωμένες [σημειώσεις](https://github.com/tsingi-chris/CSD-Auth/blob/main/3rd%20Semester/Numerical-Analysis/Notes.pdf) άγνωστης πηγής.  <br />
 Όλες οι εργασίες έχουν γραφτεί σε γλώσσα προγραμματισμού Python. Επιπλέον, έχουν γραφτεί pdf αναφορές για κάθε άσκηση σε Latex. <br />
 Για κάθε μια, υπάρχει ξεχωριστός φάκελος που περιέχει τα εκτελέσιμα αρχεία και τις αναφορές.
 
@@ -91,7 +91,7 @@
 
 ## ReadMe in English
 
-This repository contains 2 Assignment, assigned to Numerical Analysis (Winter 2021-2022).<br />
+This repository contains 2 Assignment, assigned to Numerical Analysis (Winter 2021-2022). It also contains the [slides](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/Slides) used in lectures (uploaded in elerning) and comprehensive [notes](https://github.com/tsingi-chris/CSD-Auth/blob/main/3rd%20Semester/Numerical-Analysis/Notes.pdf) (unknown author) <br />
 Program language for the two assignments is Python. Furthermore, there is a pdf report for every exercise writen in Latex. <br />
 For each assignment there is a folder, containing the program files and the reports. 
  
