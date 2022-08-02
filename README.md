@@ -77,7 +77,7 @@ Courses of the 3rd semester
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
 | NCO-03-01 | APPLIED MATHEMATICS                  | 7    | ⏳    |
-| NCO-03-02 | NUMERICAL ANALYSIS                   | 5    | ✔     |
+| NCO-03-02 | [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis) | 5    | ✔     |
 | NCO-03-03 | ELECTRONICS                          | 5    | ⏳    |
 | NCO-03-04 | OBJECT ORIENTED PROGRAMMING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 8    | ⏳    |
 | NCO-03-05 | COMPUTER ARCHITECTURE                | 5    | ⏳    |
@@ -97,7 +97,7 @@ Courses of the 4th semester
 | NCO-04-02 | ARTIFICIAL INTELLIGENCE              | 5.5  | ❌    |
 | NCO-04-03 | ALGORITHMS                           | 7    | ⏳    |
 | NCO-04-04 | HUMAN-COMPUTER INTERACTION           | 5.5  | ⏳    |
-| NCO-04-05 | DIGITAL COMMUNICATIONS               | 5    | ✔    |
+| NCO-04-05 | [DIGITAL COMMUNICATIONS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)          | 5    | ✔    |
 <br/>
 
 
@@ -110,11 +110,11 @@ Courses of the 5th semester
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
-| NCO-05-01 | SIGNALS AND SYSTEMS                  | 7    | ⏳    |
-| NCO-05-02 | COMMUNICATION NETWORKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6    | ⏳    |
-| NCO-05-03 | DATABASES                            | 7    | ⏳    |
-| NCO-05-04 | OPERATING SYSTEMS                    | 5    | ⏳    |
-| NCO-05-05 | SOFTWARE ENGINEERING                 | 5    | ⏳    |
+| NCO-05-01 | SIGNALS AND SYSTEMS                  | 7    | ...    |
+| NCO-05-02 | COMMUNICATION NETWORKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6    | ...    |
+| NCO-05-03 | DATABASES                            | 7    | ...    |
+| NCO-05-04 | OPERATING SYSTEMS                    | 5    | ...    |
+| NCO-05-05 | SOFTWARE ENGINEERING                 | 5    | ...    |
 <br/>
 
 
