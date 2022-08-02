@@ -1,5 +1,7 @@
 # CSD-Auth
 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/CSD-Auth"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/CSD-Auth"> 
+
 Computer Science Departure of Aristotle University of Thessaloniki.
 
 __- ❌ Not all courses have a folder.__

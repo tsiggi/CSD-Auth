@@ -1,6 +1,5 @@
 # DIGITAL COMMUNICATION CRC Project
-<!--
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/Digital-Communications-CRC"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/Digital-Communications-CRC"> -->
+
 
 - [ReadMe in Greek](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications/CRC#readme-in-greek)
 - [ReadMe in English](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications/CRC#readme-in-english)
