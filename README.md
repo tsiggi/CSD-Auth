@@ -2,7 +2,7 @@
 
 Computer Science Departure of Aristotle University of Thessaloniki.
 
-__- ❌ Not all courses have a separate folder.__
+__- ❌ Not all courses have a folder.__
 
 __- ✅ Within a course folder 📁 there is a ReadMe file__
 
@@ -39,7 +39,7 @@ __- ⏳ Still working 🛠️ on this repository . . .__
 Courses of the 1st semester
 
 | Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | ---- | ------ |
+| --------- | ------------------------------------ | :--: | :----: |
 | NCO-01-01 | MATHEMATICAL ANALYSIS I              | 5    | ❌    |
 | NCO-01-02 | INTRODUCTION TO INFORMATICS          | 4    | ❌    |
 | NCO-01-03 | LINEAR ALGEBRA                       | 5    | ❌    |
@@ -56,7 +56,7 @@ Courses of the 1st semester
 Courses of the 2nd semester
 
 | Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | ---- | ------ |
+| --------- | ------------------------------------ | :--: | :----: |
 | NCO-02-01 | MATHEMATICAL ANALYSIS II             | 5    | ❌    |
 | NCO-02-02 | PROBABILITIES & STATISTICS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 5    | ❌    |
 | NCO-02-03 | DATA STRUCTURES                      | 7    | ❌    |
@@ -73,7 +73,7 @@ Courses of the 2nd semester
 Courses of the 3rd semester
 
 | Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | ---- | ------ |
+| --------- | ------------------------------------ | :--: | :----: |
 | NCO-03-01 | APPLIED MATHEMATICS                  | 7    | ❌    |
 | NCO-03-02 | NUMERICAL ANALYSIS                   | 5    | ❌    |
 | NCO-03-03 | ELECTRONICS                          | 5    | ❌    |
@@ -90,7 +90,7 @@ Courses of the 3rd semester
 Courses of the 4th semester
 
 | Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | ---- | ------ |
+| --------- | ------------------------------------ | :--: | :----: |
 | NCO-04-01 | PROGRAMMING LANGUAGES AND  COMPILERS | 7    | ❌    |
 | NCO-04-02 | ARTIFICIAL INTELLIGENCE              | 5.5  | ❌    |
 | NCO-04-03 | ALGORITHMS                           | 7    | ❌    |
@@ -107,7 +107,7 @@ Courses of the 4th semester
 Courses of the 5th semester
 
 | Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | ---- | ------ |
+| --------- | ------------------------------------ | :--: | :----: |
 | NCO-05-01 | SIGNALS AND SYSTEMS                  | 7    | ❌    |
 | NCO-05-02 | COMMUNICATION NETWORKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6    | ❌    |
 | NCO-05-03 | DATABASES                            | 7    | ❌    |
@@ -124,7 +124,7 @@ Courses of the 5th semester
 Courses of the 6th semester
 
 | Code      | Title                                       | ECTS | Folder |
-| --------- | ------------------------------------------- | ---- | ------ |
+| --------- | ------------------------------------------- | :--: | :----: |
 | NDM-06-02 | STOCHASTIC SIGNAL PROCESSING                | -    | ❌    |
 | NDM-06-04 | PATTERN RECOGNITION-STATISTICAL LEARNING    | -    | ❌    |
 | NDM-07-04 | COMPUTER GRAPHICS                           | -    | ❌    |
