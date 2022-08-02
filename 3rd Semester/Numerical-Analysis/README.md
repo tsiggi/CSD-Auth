@@ -91,7 +91,7 @@
 
 ## ReadMe in English
 
-This repository contains 2 Assignment, assigned to Numerical Analysis (Winter 2021-2022). It also contains the [slides](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/Slides) used in lectures (uploaded in elerning) and comprehensive [notes](https://github.com/tsingi-chris/CSD-Auth/blob/main/3rd%20Semester/Numerical-Analysis/Notes.pdf) (unknown author) <br />
+This repository contains 2 Assignment, assigned to Numerical Analysis (Winter 2021-2022). It also contains the [slides 🇬🇷](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/Slides) used in lectures (uploaded in elerning) and comprehensive [notes 🇬🇷](https://github.com/tsingi-chris/CSD-Auth/blob/main/3rd%20Semester/Numerical-Analysis/Notes.pdf) (unknown author) <br />
 Program language for the two assignments is Python. Furthermore, there is a pdf report for every exercise writen in Latex. <br />
 For each assignment there is a folder, containing the program files and the reports. 
  
