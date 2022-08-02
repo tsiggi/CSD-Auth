@@ -14,4 +14,4 @@ This folder contains :
 * a [Slide folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design/Slides) containing the lecture slides.
 <br /><br />
 
-For more information you can open a folder from above.
+For more information, you can open a folder from above.
