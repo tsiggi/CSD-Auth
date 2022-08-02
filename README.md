@@ -44,7 +44,7 @@ Courses of the 1st semester
 | NCO-01-02 | INTRODUCTION TO INFORMATICS          | 4    | ❌    |
 | NCO-01-03 | LINEAR ALGEBRA                       | 5    | ❌    |
 | NCO-01-04 | DISCRETE MATHEMATICS                 | 7    | ❌    |
-| NCO-01-05 | BASIC PROGRAMMING PRINCIPLES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | 9    | ❌    |
+| NCO-01-05 | BASIC PROGRAMMING PRINCIPLES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | 9    | ❌    |
 <br/>
 
 
@@ -109,7 +109,7 @@ Courses of the 5th semester
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | ---- | ------ |
 | NCO-05-01 | SIGNALS AND SYSTEMS                  | 7    | ❌    |
-| NCO-05-02 | COMMUNICATION NETWORKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               | 6    | ❌    |
+| NCO-05-02 | COMMUNICATION NETWORKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6    | ❌    |
 | NCO-05-03 | DATABASES                            | 7    | ❌    |
 | NCO-05-04 | OPERATING SYSTEMS                    | 5    | ❌    |
 | NCO-05-05 | SOFTWARE ENGINEERING                 | 5    | ❌    |
