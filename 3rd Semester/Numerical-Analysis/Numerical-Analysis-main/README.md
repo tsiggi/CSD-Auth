@@ -94,7 +94,7 @@
 
 This folder contains 2 Assignment, assigned to Numerical Analysis (Winter 2021-2022).<br />
 Program language for the two assignments is Python. Furthermore, there is a pdf report for every exercise writen in Latex. <br />
-There is a folder for each assignment, containing the program files and the reports. 
+For each assignment there is a folder, containing the program files and the reports. 
  
 ## 1st Assignment
 
