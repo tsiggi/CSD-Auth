@@ -22,4 +22,5 @@ This folder contains everything you want for this course :
 - Every Lab Solution
 - a Semester Assignment (Simulates a digital logic circuit) .
 
+Notes are NOT needed, Slides are MORE than enough.
 <br/>
