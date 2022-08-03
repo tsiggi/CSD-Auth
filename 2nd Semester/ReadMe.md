@@ -9,7 +9,8 @@ Courses of the 2nd semester
 | NCO-02-03 | [DATA STRUCTURES](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#data-structures-)                  |      ❌    | ❌    | ❌    | 7    | 
 | NCO-02-04 | [DIGITAL DESIGN](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#digital-design-)                   |      ✔     | ✔     | ❌    | 7    | 
 | NCO-02-05 | THEORY OF COMPUTATION                |      ❌    | ❌    | ❌    | 6    | 
-<br/><br /><br /><br />
+
+<br /><br />
 
 ## DATA STRUCTURES 📂
 
