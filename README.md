@@ -62,7 +62,7 @@ Courses of the 2nd semester
 | NCO-02-01 | MATHEMATICAL ANALYSIS II             | 5    | ⏳    |
 | NCO-02-02 | PROBABILITIES & STATISTICS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 5    | ❌    |
 | NCO-02-03 | DATA STRUCTURES                      | 7    | ⏳    |
-| NCO-02-04 | DIGITAL DESIGN                       | 7    | ⏳    |
+| NCO-02-04 | [DIGITAL DESIGN 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design) | 7    | ✔     |
 | NCO-02-05 | THEORY OF COMPUTATION                | 6    | ❌    |
 <br/>
 
