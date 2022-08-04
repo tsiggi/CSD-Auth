@@ -8,7 +8,7 @@ Courses of the 3rd semester :
 | NCO-03-02 | [NUMERICAL ANALYSIS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#numerical-analysis-)               | 5    | ✔     | ✔     | ✔     | 
 | NCO-03-03 | ELECTRONICS                          | 5    | ❌    | ❌    | ❌    | 
 | NCO-03-04 | OBJECT ORIENTED PROGRAMMING          | 8    | ❌    | ❌    | ❌    | 
-| NCO-03-05 | COMPUTER ARCHITECTURE                | 5    | ❌    | ❌    | ❌    | 
+| NCO-03-05 | [COMPUTER ARCHITECTURE](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#computer-architecture-)                | 5    | ❌    | ❌    | ❌    | 
 <br/>
  
 
@@ -21,4 +21,19 @@ This folder contains everything you want for this course :
 
 <br/>
 
-## [Object Oriented programming 📂]()
+## Object Oriented programming 📂
+
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FOLDER NOT READY YET !!!
+
+<br />
+<br />
+
+## [COMPUTER ARCHITECTURE 📂]()
+
+In this folder you can find :
+* Slides (From Elearning),
+* Links of Recorded Lectures,
+* Previous Assignment,
+* Semester Assignment and
+* Subjucts of 2020 online examination.
