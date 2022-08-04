@@ -29,7 +29,7 @@ This folder contains everything you want for this course :
 <br />
 <br />
 
-## [COMPUTER ARCHITECTURE 📂]()
+## [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)
 
 In this folder you can find :
 * Slides (From Elearning),
