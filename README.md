@@ -13,25 +13,18 @@ __- ⏳ Still working 🛠️ on this repository . . .__
 <br/>
 ## Navigation
 
-- 1st Year
-    - [1st Semester](https://github.com/tsingi-chris/CSD-Auth#1st-semester) ✅       
-    - [2nd Semester](https://github.com/tsingi-chris/CSD-Auth#2nd-semester) ✅
-- 2nd Year
-    - [3rd Semester](https://github.com/tsingi-chris/CSD-Auth#3rd-semester) ✅
-    - [4th Semester](https://github.com/tsingi-chris/CSD-Auth#4th-semester) ✅
-- 3rd Year 
-    - [5th Semester](https://github.com/tsingi-chris/CSD-Auth#5th-semester) ⏳
-    - 6th Semester
-- 4th Year
-    - 7th Semester
-    - 8th Semester
+
+- [1st Semester](https://github.com/tsingi-chris/CSD-Auth#1st-semester) ✅      
+- [2nd Semester](https://github.com/tsingi-chris/CSD-Auth#2nd-semester) ✅
+- [3rd Semester](https://github.com/tsingi-chris/CSD-Auth#3rd-semester) ✅
+- [4th Semester](https://github.com/tsingi-chris/CSD-Auth#4th-semester) ✅
+- [5th Semester](https://github.com/tsingi-chris/CSD-Auth#5th-semester) ⏳
+- 6th Semester
+- 7th Semester
+- 8th Semester
 
 <br/><br/>
 
-## Known Proplems !!!
-- LINKS NOT WORKING . . .
-
-<br/><br/>
 
 
 ## 1st Semester
@@ -80,7 +73,7 @@ Courses of the 3rd semester
 | NCO-03-02 | [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis) | 5    | ✔     |
 | NCO-03-03 | ELECTRONICS                          | 5    | ⏳    |
 | NCO-03-04 | OBJECT ORIENTED PROGRAMMING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 8    | ⏳    |
-| NCO-03-05 | COMPUTER ARCHITECTURE                | 5    | ⏳    |
+| NCO-03-05 | [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)                | 5    | ⏳    |
 <br/>
 
 
