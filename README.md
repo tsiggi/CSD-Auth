@@ -28,7 +28,6 @@ __- ⏳ Still working 🛠️ on this repository . . .__
 
 
 ## 1st Semester (Winter 2020-2021)
-<br />
 
 __[1st Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester)__
 <br />
@@ -48,7 +47,6 @@ Courses of the 1st semester
 
 
 ## 2nd Semester (Summer 2020-2021)
-<br />
 
 __[2nd Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester)__
 
@@ -69,7 +67,6 @@ Courses of the 2nd semester
 
 
 ## 3rd Semester (Winter 2021/22)
-<br />
 
 __[3rd Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester)__
 
@@ -90,7 +87,6 @@ Courses of the 3rd semester
 
 
 ## 4th Semester (Summer 2021-2022)
-<br />
 
 __[4th Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester)__
 
@@ -111,7 +107,6 @@ Courses of the 4th semester
 
 
 ## 5th Semester (Winter 2021-2022)
-<br />
 
 __5th Semester Folder 📂 (NOT READY YET !!!)__
 
