@@ -1,19 +1,14 @@
-# CSD-Auth
+# CSD-Auth <img src="CSD Logo.png" height="28">
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/CSD-Auth"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/CSD-Auth"> 
 
-Computer Science Departure of Aristotle University of Thessaloniki.
-
-__- ❌ Not all courses have a folder.__
-
-__- ✅ Within a course folder 📁 there is a ReadMe file__
-
-__- ⏳ Still working 🛠️ on this repository . . .__
+Computer Science Departure of Aristotle University of Thessaloniki. <br />
+Main goal of this repository, is to be a useful studying tool, for anyone studying Computer Science. 
 <br/>
 <br/>
-## Navigation
+## Navigation Links 🔗
 
-
+- [Important Informations](https://github.com/tsingi-chris/CSD-Auth#important-informations-) 📚
 - [1st Semester](https://github.com/tsingi-chris/CSD-Auth#1st-semester) ✅      
 - [2nd Semester](https://github.com/tsingi-chris/CSD-Auth#2nd-semester) ✅
 - [3rd Semester](https://github.com/tsingi-chris/CSD-Auth#3rd-semester) ✅
@@ -23,17 +18,26 @@ __- ⏳ Still working 🛠️ on this repository . . .__
 - 7th Semester
 - 8th Semester
 
-<br/><br/>
+<br/><br />
+
+## Important Informations 📚
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- ❌ Not all courses have a folder.__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- ✅ Within a Semester and Course folder 📁 there is a ReadMe file.__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- 🔍 For more information, you can read Semester's ReadMe File.__
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- ⏳ Still working 🛠️ on this repository . . .__
+
+<br /><br />
 
 
+## [1st Semester (Winter 2020-2021) 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester)
 
-## 1st Semester (Winter 2020-2021)
-
-__[1st Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester)__
-<br />
 <!-- [Link for this folder]() -->
 
-Courses of the 1st semester
+Courses of the 1st semester :
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
@@ -46,13 +50,10 @@ Courses of the 1st semester
 
 
 
-## 2nd Semester (Summer 2020-2021)
-
-__[2nd Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester)__
-<br />
+## [2nd Semester (Summer 2020-2021) 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester)
 <!-- [Link for this folder]() -->
 
-Courses of the 2nd semester
+Courses of the 2nd semester :
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
@@ -65,13 +66,11 @@ Courses of the 2nd semester
 
 
 
-## 3rd Semester (Winter 2021/22)
+## [3rd Semester (Winter 2021-2022) 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester)
 
-__[3rd Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester)__
-<br />
 <!-- [Link for this folder]() -->
 
-Courses of the 3rd semester
+Courses of the 3rd semester :
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
@@ -84,13 +83,11 @@ Courses of the 3rd semester
 
 
 
-## 4th Semester (Summer 2021-2022)
+## [4th Semester (Summer 2021-2022) 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester)
 
-__[4th Semester Folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester)__
-<br />
 <!-- [Link for this folder]() -->
 
-Courses of the 4th semester
+Courses of the 4th semester :
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
@@ -99,17 +96,15 @@ Courses of the 4th semester
 | NCO-04-03 | ALGORITHMS                           | 7    | ⏳    |
 | NCO-04-04 | HUMAN-COMPUTER INTERACTION           | 5.5  | ⏳    |
 | NCO-04-05 | [DIGITAL COMMUNICATIONS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)          | 5    | ✔    |
+<!--
 <br/>
 
 
 
-## 5th Semester (Winter 2021-2022)
+## 5th Semester (Winter 2021-2022) 📂
+<!-- [Link for this folder]() 
 
-__5th Semester Folder 📂 (NOT READY YET !!!)__
-<br />
-<!-- [Link for this folder]() -->
-
-Courses of the 5th semester
+Courses of the 5th semester :
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
@@ -120,7 +115,7 @@ Courses of the 5th semester
 | NCO-05-05 | SOFTWARE ENGINEERING                 | 5    | ...    |
 <br/>
 
-
+-->
 <!-- 
 ## 6th Semester
 
@@ -141,3 +136,7 @@ Courses of the 6th semester
 
 -->
 
+<br />
+<hr />
+
+- A Link is refering to a folder, when there is a 📂 (folder emoji), at the end of it. 
