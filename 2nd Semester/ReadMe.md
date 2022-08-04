@@ -1,4 +1,4 @@
-# 2nd Semester
+# 2nd Semester (Summer 2020-2021)
 
 Courses of the 2nd semester
 
