@@ -2,13 +2,13 @@
 
 Courses of the 3rd semester :
 
-| Code      | Title                                | ECTS | Slides | Notes | Assignments |
-| --------- | ------------------------------------ | :--: | :----: | :---: | :---: | 
-| NCO-03-01 | APPLIED MATHEMATICS                  | 7    | ❌    | ❌    | ❌    | 
-| NCO-03-02 | [NUMERICAL ANALYSIS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#numerical-analysis-)               | 5    | ✔     | ✔     | ✔     | 
-| NCO-03-03 | ELECTRONICS                          | 5    | ❌    | ❌    | ❌    | 
-| NCO-03-04 | OBJECT ORIENTED PROGRAMMING          | 8    | ❌    | ❌    | ❌    | 
-| NCO-03-05 | [COMPUTER ARCHITECTURE](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#computer-architecture-)                | 5    | ❌    | ❌    | ❌    | 
+| Code      | Title                                | Assignments | Slides | Notes | ECTS |
+| --------- | ------------------------------------ | :---------: | :----: | :---: | :--: | 
+| NCO-03-01 | APPLIED MATHEMATICS                  | ❌         | ❌     | ❌   | 7    | 
+| NCO-03-02 | [NUMERICAL ANALYSIS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#numerical-analysis-)                | ✔          | ✔      | ✔    | 5    |
+| NCO-03-03 | ELECTRONICS                          | ❌         | ❌     | ❌   | 5    |
+| NCO-03-04 | [OBJECT ORIENTED PROGRAMMING](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#object-oriented-programming-)       | ❌         | ❌     | ❌   | 8    |
+| NCO-03-05 | [COMPUTER ARCHITECTURE](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#computer-architecture-)             | ✔          | ✔      | ❌   | 5    |
 <br/>
  
 
