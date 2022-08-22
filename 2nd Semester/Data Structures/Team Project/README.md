@@ -11,7 +11,7 @@ This is a team project , was developed by me and [chriszaro](https://github.com/
 
 <br />
 
-## What you can find in this folder ?
+## What can you find in this folder ?
 In this folder you can find : 
 - the [project description (GR)](https://github.com/tsingi-chris/CSD-Auth/blob/main/2nd%20Semester/Data%20Structures/Team%20Project/Project%20Discription.pdf) [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Data%20Structures/Team%20Project/Project%20Discription.pdf),
 - the code in [headers 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures/Team%20Project/Headers) and [source 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures/Team%20Project/Sources) folder,
