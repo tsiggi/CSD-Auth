@@ -6,7 +6,7 @@ Courses of the 3rd semester :
 | --------- | ------------------------------------ | :---------: | :----: | :---: | :--: | 
 | NCO-03-01 | [APPLIED MATHEMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#applied-mathematics-)               | -          | ❌     | ❌   | 7    | 
 | NCO-03-02 | [NUMERICAL ANALYSIS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#numerical-analysis-)                | ✔          | ✔      | ✔    | 5    |
-| NCO-03-03 | [ELECTRONICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#electronics-)                       | -          | ❌     | ❌   | 5    |
+| NCO-03-03 | [ELECTRONICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#electronics-)                       | -          | ✔      |  ✔   | 5    |
 | NCO-03-04 | [OBJECT ORIENTED PROGRAMMING](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#object-oriented-programming-)       | ❌         | ❌     | ❌   | 8    |
 | NCO-03-05 | [COMPUTER ARCHITECTURE](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#computer-architecture-)             | ✔          | ✔      | ❌   | 5    |
  
@@ -25,9 +25,13 @@ This folder contains everything you want for this course :
 
 <br/>
 
-## ELECTRONICS 📂
+## [ELECTRONICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Electronics)
 
-<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**<br /><br /><br />
+In this folder you can find :
+- the lecture slides and
+- my Notes. 
+
+<br />
 
 ## Object Oriented programming 📂
 
@@ -35,7 +39,7 @@ This folder contains everything you want for this course :
 
 ## [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)
 
-In this folder you can find :
+Everything you want for Computer Architecture course, can be found in this folder, including :
 * Slides (From Elearning),
 * Links of Recorded Lectures,
 * Previous Assignment,
