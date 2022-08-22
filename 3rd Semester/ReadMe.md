@@ -16,10 +16,6 @@ Courses of the 3rd semester :
 
 <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**<br /><br /><br />
 
-## ELECTRONICS 📂
-
-<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**<br /><br /><br />
-
 ## [Numerical Analysis 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)
 
 This folder contains everything you want for this course :  
@@ -28,6 +24,10 @@ This folder contains everything you want for this course :
 - 2 Assignments in Numerical Methods (Programming Language is Python) .
 
 <br/>
+
+## ELECTRONICS 📂
+
+<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**<br /><br /><br />
 
 ## Object Oriented programming 📂
 
