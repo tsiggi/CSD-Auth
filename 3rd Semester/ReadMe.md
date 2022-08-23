@@ -18,7 +18,7 @@ Courses of the 3rd semester :
 - Slides 
 - my Notes<br /><br />
 
-## [Numerical Analysis 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)
+## [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)
 
 This folder contains everything you want for this course :  
 - Slides (From Elearning)
@@ -35,7 +35,7 @@ In this folder you can find :
 
 <br />
 
-## Object Oriented programming ⏳
+## OBJECT ORIENTED PROGRAMMING ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Assignment ( CLI and GUI )
