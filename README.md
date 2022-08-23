@@ -1,6 +1,6 @@
 # CSD-Auth <img src="CSD Logo.png" height="28">
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/CSD-Auth"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/CSD-Auth"> 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/CSD-Auth"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/CSD-Auth"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tsingi-chris/CSD-Auth">
 
 Computer Science Departure of Aristotle University of Thessaloniki. <br />
 Main goal of this repository, is to be a useful studying tool, for anyone studying Computer Science. 
