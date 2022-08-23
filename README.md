@@ -22,6 +22,10 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 
 ## Important Informations 📚
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- 🔥 CONTRIBUTIONS ARE MORE THAN WELCOME.__
+<!-- --
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- 🚨 A Link is refering to a folder, when there is a 📂 (folder emoji), at the end of it..__
+<!---->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- ❌ Not all courses have a folder.__
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__- ✅ Within a Semester and Course folder 📁 there is a ReadMe file.__
