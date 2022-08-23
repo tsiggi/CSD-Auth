@@ -12,30 +12,30 @@ Courses of the 4th semester
  
 <br /><br />
 
-## Programming Languages and compilers ⏳
+## PROGRAMMING LANGUAGES AND COMPILERS ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Assignment [main (akork) + Others (me)] 
 - Slides <br /><br />
 
-## Artificial Intelligence ❌
+## ARTIFICIAL INTELLIGENCE ❌
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Maybe in the Future !!!**<br /><br />
 
 
-## Algorithms ⏳
+## ALGORITHMS ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Assignment 
 - Slides <br /><br />
 
-## Human-Computer Interaction ⏳
+## HUMAN-COMPUTER INTERACTION ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Assignment ( Other or mine )
 - Slides <br /><br />
 
-## [Digital Communications 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)
+## [DIGITAL COMMUNICATION 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)
 
 Everything you want for Digital Communication course, including :
 * Lecture Slides,
