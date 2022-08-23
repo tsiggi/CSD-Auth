@@ -12,7 +12,7 @@ Courses of the 1st semester
 
 <br /><br />
 
-## MATHEMATICAL ANALYSIS I 📂
+## MATHEMATICAL ANALYSIS I ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** 
 - Notes + Photo 
@@ -33,8 +33,13 @@ Courses of the 1st semester
 <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Maybe in the future!**<br /><br /><br />
 
 
-## BASIC PROGRAMMING PRINCIPLES 📂
+## BASIC PROGRAMMING PRINCIPLES ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** 
 - Assignment 
 - Slides 
+
+<br />
+
+<hr />
+For more information, open a course folder .
