@@ -12,7 +12,7 @@ Courses of the 3rd semester :
  
 <br /><br />
 
-## APPLIED MATHEMATICS 📂
+## APPLIED MATHEMATICS ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Slides 
@@ -35,7 +35,7 @@ In this folder you can find :
 
 <br />
 
-## Object Oriented programming 📂
+## Object Oriented programming ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Assignment ( CLI and GUI )
@@ -49,3 +49,8 @@ Everything you want for Computer Architecture course, can be found in this folde
 * Previous Assignment,
 * Semester Assignment and
 * Subjucts of 2020 online examination.
+
+<br />
+
+<hr />
+For more information, open a course folder .
