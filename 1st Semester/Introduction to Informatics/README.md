@@ -4,6 +4,12 @@
 
 <br />
 
+This course splits in to two sections : 
+- Theory (Introduction to Informatics) and 
+- Introduction to the Python language. 
+
+<br />
+
 In this folder there is : 
 - All python Assignments : 
     - [1st Exercise 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Exercise%201)
@@ -11,19 +17,9 @@ In this folder there is :
     - [3rd Exercise 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Exercise%203)
     - [4th Exercise 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Exercise%204)
     - [5th Exercise 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Exercise%205) and 
-- a subfolder with the [Lecture Slides 📂]() .
-
-<br />
-
-This course splits in to two sections : 
-- Theory (Introduction to Informatics) and 
-- Introduction to the Python language. 
-
-<br/>
-
-That's why, there are two subfolders inside Slides folder:
-- One for [theory 📂]() and
-- the other for [python 📂]().  
+- a subfolder with the [Lecture Slides 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides), which contains two subfolders :  
+    - One for [theory 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides/Introduction%20of%20Informatics%20-%20Theory) and
+    - the other for [python 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides/Introduction%20of%20Informatics%20-%20The%20Python%20programming%20language).
 
 <br />
 
