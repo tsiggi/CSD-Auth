@@ -14,11 +14,15 @@ Courses of the 2nd semester
 
 ## MATHEMATICAL ANALYSIS II 📂
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** <br /><br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+- Slides
+- my Notes <br /><br />
 
 ## PROBABILITIES & STATISTICS 📂
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** <br /><br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+- Slides 
+- my Notes<br /><br />
 
 
 ## [DATA STRUCTURES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures)
@@ -43,8 +47,10 @@ This folder contains everything you want for this course :
 
 Notes are NOT needed, Slides are MORE than enough.
 
-<br /><br />
+<br />
 
 ## THEORY OF COMPUTATION 📂
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** 
+- Slides 
+- my Notes
