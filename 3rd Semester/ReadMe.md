@@ -4,17 +4,19 @@ Courses of the 3rd semester :
 
 | Code      | Title                                | Assignments | Slides | Notes | ECTS |
 | --------- | ------------------------------------ | :---------: | :----: | :---: | :--: | 
-| NCO-03-01 | [APPLIED MATHEMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#applied-mathematics-)               | -          | ❌     | ❌   | 7    | 
+| NCO-03-01 | [APPLIED MATHEMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#applied-mathematics-)               | -          | ⏳     | ⏳   | 7    | 
 | NCO-03-02 | [NUMERICAL ANALYSIS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#numerical-analysis-)                | ✔          | ✔      | ✔    | 5    |
 | NCO-03-03 | [ELECTRONICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#electronics-)                       | -          | ✔      |  ✔   | 5    |
-| NCO-03-04 | [OBJECT ORIENTED PROGRAMMING](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#object-oriented-programming-)       | ❌         | ❌     | ❌   | 8    |
+| NCO-03-04 | [OBJECT ORIENTED PROGRAMMING](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#object-oriented-programming-)       | ⏳         | ⏳     | ❌   | 8    |
 | NCO-03-05 | [COMPUTER ARCHITECTURE](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#computer-architecture-)             | ✔          | ✔      | ❌   | 5    |
  
 <br /><br />
 
 ## APPLIED MATHEMATICS 📂
 
-<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**<br /><br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+- Slides 
+- my Notes<br /><br />
 
 ## [Numerical Analysis 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)
 
@@ -35,7 +37,9 @@ In this folder you can find :
 
 ## Object Oriented programming 📂
 
-<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**<br /><br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+- Assignment ( CLI and GUI )
+- Slides <br /><br />
 
 ## [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)
 
