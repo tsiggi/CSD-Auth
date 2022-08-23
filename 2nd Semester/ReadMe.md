@@ -12,13 +12,13 @@ Courses of the 2nd semester
 
 <br /><br />
 
-## MATHEMATICAL ANALYSIS II 📂
+## MATHEMATICAL ANALYSIS II ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Slides
 - my Notes <br /><br />
 
-## PROBABILITIES & STATISTICS 📂
+## PROBABILITIES & STATISTICS ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
 - Slides 
@@ -49,8 +49,13 @@ Notes are NOT needed, Slides are MORE than enough.
 
 <br />
 
-## THEORY OF COMPUTATION 📂
+## THEORY OF COMPUTATION ⏳
 
 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** 
 - Slides 
 - my Notes
+
+<br />
+
+<hr />
+For more information, open a course folder .
