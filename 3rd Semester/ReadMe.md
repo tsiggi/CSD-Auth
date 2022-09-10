@@ -46,9 +46,9 @@ In this folder you can find :
 Everything you want for Computer Architecture course, can be found in this folder, including :
 * Slides (From Elearning),
 * Links of Recorded Lectures,
-* Previous Assignment,
-* Semester Assignment and
-* Subjucts of 2020 online examination.
+* 2020 Assignment Description,
+* 2021 Semester Assignment and
+* Exam Topics of 2020 online examination.
 
 <br />
 
