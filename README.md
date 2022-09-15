@@ -9,6 +9,7 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 
 <details>
 <summary>
+
 ## Navigation Links 🔗 <font size="2">(click to open)</font>
 </summary>
 
