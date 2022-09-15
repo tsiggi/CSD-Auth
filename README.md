@@ -8,7 +8,7 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 <br/>
 
 <details>
-<summary><font size="5">Navigation Links 🔗</font> (click to open)</summary>
+<summary><b>Navigation Links 🔗</b> (click to open)</summary>
 <!-- MarkdownTOC -->
 
 - [Important Informations](https://github.com/tsingi-chris/CSD-Auth#important-informations-) 📚
