@@ -1,6 +1,6 @@
 # CSD-Auth <img src="CSD Logo.png" height="28">
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/CSD-Auth"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/CSD-Auth"> <img alt="GitHub repo size" sSrc="https://img.shields.io/github/repo-size/tsingi-chris/CSD-Auth">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/CSD-Auth"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/CSD-Auth"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tsingi-chris/CSD-Auth">
 
 Computer Science Departure of Aristotle University of Thessaloniki. <br />
 Main goal of this repository, is to be a useful studying tool, for anyone studying Computer Science. 
@@ -8,8 +8,11 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 <br/>
 
 <details>
-<summary><b>Navigation Links 🔗</b> (click to open)</summary>
-<!-- MarkdownTOC -->
+<summary>
+## Navigation Links 🔗 <font size="2">(click to open)</font>
+</summary>
+
+
 
 - [Important Informations](https://github.com/tsingi-chris/CSD-Auth#important-informations-) 📚
 - [1st Semester](https://github.com/tsingi-chris/CSD-Auth#1st-semester-winter-2020-2021-) ✅      
@@ -21,7 +24,6 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 - 7th Semester
 - 8th Semester
 
-<!-- /MarkdownTOC -->
 </details>
 
 <br/>
