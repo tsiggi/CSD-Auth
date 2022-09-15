@@ -6,7 +6,10 @@ Computer Science Departure of Aristotle University of Thessaloniki. <br />
 Main goal of this repository, is to be a useful studying tool, for anyone studying Computer Science. 
 <br/>
 <br/>
-## Navigation Links 🔗
+
+<details>
+<summary><font size=4>Navigation Links 🔗</font> (click to open)</summary>
+<!-- MarkdownTOC -->
 
 - [Important Informations](https://github.com/tsingi-chris/CSD-Auth#important-informations-) 📚
 - [1st Semester](https://github.com/tsingi-chris/CSD-Auth#1st-semester-winter-2020-2021-) ✅      
@@ -18,7 +21,10 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 - 7th Semester
 - 8th Semester
 
-<br/><br />
+<!-- /MarkdownTOC -->
+</details>
+
+<br/>
 
 ## Important Informations 📚
 
