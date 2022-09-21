@@ -21,4 +21,4 @@ In this folder you can find :
 <br/>
 <hr/>
 
-Slides were uploaded by professor Tsitsas and Draziotis at [elearning](https://elearning.auth.gr/course/view.php?id=6562).
+Slides were uploaded by professor Tsitsas and Draziotis at [elearning](https://elearning.auth.gr/course/view.php?id=6561).
