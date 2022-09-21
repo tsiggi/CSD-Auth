@@ -4,7 +4,7 @@ Courses of the 1st semester
 
 | Code      | Title                                | Assignments | Slides | Notes | ECTS |
 | --------- | ------------------------------------ | :---------: | :----: | :---: | :--: | 
-| NCO-01-01 | [MATHEMATICAL ANALYSIS I](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#mathematical-analysis-i-)              | -          | ⏳      | ⏳   | 5    | 
+| NCO-01-01 | MATHEMATICAL ANALYSIS I              | -          | ❌      | ❌   | 5    | 
 | NCO-01-02 | [INTRODUCTION TO INFORMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#introduction-to-informatics-)          | ✔         | ✔     | ❌   | 4    | 
 | NCO-01-03 | LINEAR ALGEBRA                       | -          | ❌     | ❌   | 5    | 
 | NCO-01-04 | DISCRETE MATHEMATICS                 | -          | ❌     | ❌   | 7    | 
@@ -12,11 +12,9 @@ Courses of the 1st semester
 
 <br /><br />
 
-## MATHEMATICAL ANALYSIS I ⏳
+## MATHEMATICAL ANALYSIS I ❌
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!** 
-- Notes + Photo 
-- Slides  <br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**This folder needs a Contributor!** See how you can become one!!!<br /><br />
 
 ## [INTRODUCTION TO INFORMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics)
 
@@ -28,12 +26,12 @@ In this folder you can find :
 
 ## LINEAR ALGEBRA ❌
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Maybe in the future!**<br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**This folder needs a Contributor!** See how you can become one!!!<br /><br />
 
 
 ## DISCRETE MATHEMATICS ❌
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Maybe in the future!**<br /><br />
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**This folder needs a Contributor!** See how you can become one!!!<br /><br />
 
 
 ## BASIC PROGRAMMING PRINCIPLES ⏳
