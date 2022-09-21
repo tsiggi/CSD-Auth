@@ -87,11 +87,11 @@ Courses of the 3rd semester :
 
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
-| NCO-03-01 | APPLIED MATHEMATICS                  | 7    | ⏳    |
-| NCO-03-02 | [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)                     | 5    | ✔     |
+| NCO-03-01 | [APPLIED MATHEMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Applied%20Mathematics)          | 7    | ✔    |
+| NCO-03-02 | [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)              | 5    | ✔     |
 | NCO-03-03 | [ELECTRONICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Electronics)                            | 5    | ✔    |
 | NCO-03-04 | OBJECT ORIENTED PROGRAMMING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 8    | ⏳    |
-| NCO-03-05 | [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)                | 5    | ✔    |
+| NCO-03-05 | [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)      | 5    | ✔    |
 <br/>
 
 
