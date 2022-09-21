@@ -11,10 +11,10 @@ Professors :
 <br/>
 
 In this folder you can find : 
-- Lecture [Slides 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design/Slides):
-    - [Tsitsas 📁]() Slides,
-    - [Draziotis📁]() Slides.
-- my [Notes]():
+- Lecture [Slides 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides):
+    - [Tsitsas 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides/Tsitsas) Slides,
+    - [Draziotis📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides/Draziotis) Slides.
+- my [Notes](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Mathematical%20Analysis%20II/Notes.pdf):
     - Tsitsas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Notes pages : 1 - &nbsp;48)
     - Draziotis &nbsp;&nbsp;(Notes pages : 48 - 78)
 
