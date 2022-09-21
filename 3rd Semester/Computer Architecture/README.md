@@ -1,6 +1,6 @@
 # Computer Architecture
 
-In this folder, there is everything from 2020-2021, Computer Architecture course.
+In this folder, there is everything from 2021-2022, [Computer Architecture](https://elearning.auth.gr/course/view.php?id=8100) course.
 <br />
 
 Moreover, you can find :
