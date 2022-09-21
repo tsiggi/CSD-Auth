@@ -4,7 +4,7 @@ Courses of the 3rd semester :
 
 | Code      | Title                                | Assignments | Slides | Notes | ECTS |
 | --------- | ------------------------------------ | :---------: | :----: | :---: | :--: | 
-| NCO-03-01 | [APPLIED MATHEMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#applied-mathematics-)               | -          | ⏳     | ⏳   | 7    | 
+| NCO-03-01 | [APPLIED MATHEMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#applied-mathematics-)               | -          | ✔      | ✔    | 7    | 
 | NCO-03-02 | [NUMERICAL ANALYSIS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#numerical-analysis-)                | ✔          | ✔      | ✔    | 5    |
 | NCO-03-03 | [ELECTRONICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#electronics-)                       | -          | ✔      |  ✔   | 5    |
 | NCO-03-04 | [OBJECT ORIENTED PROGRAMMING](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester#object-oriented-programming-)       | ⏳         | ⏳     | ❌   | 8    |
@@ -12,11 +12,14 @@ Courses of the 3rd semester :
  
 <br /><br />
 
-## APPLIED MATHEMATICS ⏳
+## [APPLIED MATHEMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Applied%20Mathematics)
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
-- Slides 
-- my Notes<br /><br />
+You can find : 
+- the Lecture Slides
+- my Notes and 
+- a Helpful Readme.
+
+<br/>
 
 ## [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)
 
