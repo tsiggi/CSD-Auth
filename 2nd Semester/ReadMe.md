@@ -5,10 +5,10 @@ Courses of the 2nd semester
 | Code      | Title                                | Assignments | Slides | Notes | ECTS |
 | --------- | ------------------------------------ | :---------: | :----: | :---: | :---: | 
 | NCO-02-01 | [MATHEMATICAL ANALYSIS II](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#mathematical-analysis-ii-)          |      -    |  ✔    | ✔     | 5    | 
-| NCO-02-02 | [PROBABILITIES & STATISTICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#probabilities--statistics-)         |      -    |  ⏳    | ⏳     | 5    | 
+| NCO-02-02 | [PROBABILITIES & STATISTICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#probabilities--statistics-)         |      -    |  ❌    | ✔     | 5    | 
 | NCO-02-03 | [DATA STRUCTURES](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#data-structures-)                   |      ✔    |  ✔     | ❌    | 7    | 
 | NCO-02-04 | [DIGITAL DESIGN](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#digital-design-)                    |      ✔    |  ✔     | ❌    | 7    | 
-| NCO-02-05 | [THEORY OF COMPUTATION](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#theory-of-computation-)             |     ❌    |  ⏳    | ⏳    | 6    | 
+| NCO-02-05 | [THEORY OF COMPUTATION](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester#theory-of-computation-)             |     ❌    |  ⏳    | ❌    | 6    | 
 
 <br /><br />
 
@@ -20,11 +20,12 @@ You can find :
 
 <br />
 
-## PROBABILITIES & STATISTICS ⏳
+## [PROBABILITIES & STATISTICS 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Probabilities%20%26%20Statistics)
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
-- Slides 
-- my Notes<br /><br />
+A folder that contains :
+- a pdf of my Notes.
+
+<br />
 
 
 ## [DATA STRUCTURES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures)

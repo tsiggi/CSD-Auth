@@ -11,4 +11,4 @@ Professors :
 <br/>
 
 In this folder you can find : 
-- my [Notes]().
+- my [Notes](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Probabilities%20%26%20Statistics/Probabilities%20%26%20Statistics%20Notes.pdf).

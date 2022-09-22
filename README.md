@@ -71,7 +71,7 @@ Courses of the 2nd semester :
 | Code      | Title                                | ECTS | Folder |
 | --------- | ------------------------------------ | :--: | :----: |
 | NCO-02-01 | [MATHEMATICAL ANALYSIS II 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II)  | 5    | ✔    |
-| NCO-02-02 | PROBABILITIES & STATISTICS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 5    | ⏳    |
+| NCO-02-02 | [PROBABILITIES & STATISTICS 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Probabilities%20%26%20Statistics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 5    | ✔    |
 | NCO-02-03 | [DATA STRUCTURES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures)                      | 7    | ✔    |
 | NCO-02-04 | [DIGITAL DESIGN 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design)                        | 7    | ✔    |
 | NCO-02-05 | THEORY OF COMPUTATION                | 6    | ⏳    |
