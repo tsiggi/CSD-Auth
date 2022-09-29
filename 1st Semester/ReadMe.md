@@ -5,10 +5,10 @@ Courses of the 1st semester :
 | Code      | Title                                | Exam Topics | Assignments | Slides | Notes | 
 | --------- | ------------------------------------ | :---------: | :---------: | :----: | :---: |
 | NCO-01-01 | MATHEMATICAL ANALYSIS I              | ❌         | -           | ❌     | ❌   |  
-| NCO-01-02 | [INTRODUCTION TO INFORMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#introduction-to-informatics-)       | [ ✔ ]()(Not Working)    | ✔           | ✔     | ✔     |  
-| NCO-01-03 | [LINEAR ALGEBRA]() (Not Working)                       | [ ✔ ]()(Not Working)    | -           | ❌     | ❌   |  
-| NCO-01-04 | [DISCRETE MATHEMATICS]() (Not Working)                 | [ ✔ ]()(Not Working)    | -           | ❌     | ❌   |  
-| NCO-01-05 | [BASIC PROGRAMMING PRINCIPLES](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#basic-programming-principles-)      | [ ✔ ]()(Not Working)    | ⏳          | ⏳      | ❌   |  
+| NCO-01-02 | [INTRODUCTION TO INFORMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#introduction-to-informatics-)       | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)    | ✔           | ✔     | ✔     |  
+| NCO-01-03 | [LINEAR ALGEBRA](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#linear-algebra-)                        | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Linear%20Algebra/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)     | -           | ❌     | ❌   |  
+| NCO-01-04 | [DISCRETE MATHEMATICS](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#discrete-mathematics-)                 | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Discrete%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)    | -           | ❌     | ❌   |  
+| NCO-01-05 | [BASIC PROGRAMMING PRINCIPLES](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester#basic-programming-principles-)      | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)    | ⏳          | ⏳      | ❌   |  
 
 <br /><br />
 
@@ -26,24 +26,24 @@ In this folder you can find :
 
 <br />
 
-## [LINEAR ALGEBRA 📂]() (Not Working) 
+## [LINEAR ALGEBRA 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Linear%20Algebra) 
 
 This one, only contains Exam Topics. <br/>See how you can Contribute.
 
 <br />
 
-## [DISCRETE MATHEMATICS 📂]() (Not Working) 
+## [DISCRETE MATHEMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Discrete%20Mathematics) 
 
 This one, only contains Exam Topics. <br/> See how you can Contribute.
 
 <br />
 
-## [BASIC PROGRAMMING PRINCIPLES 📂]() (Not Working)
+## [BASIC PROGRAMMING PRINCIPLES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles) 
 
-At the moment, this folder only contains Exam Topics.<br/>
-The following will be added shortly:
-- Assignments and
-- Slides.
+This folder contains:
+- Exam Topics,
+- Eagle Assignments and
+- the 2021 Project.
 
 <br />
 
