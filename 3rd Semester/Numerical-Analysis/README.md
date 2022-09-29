@@ -2,8 +2,23 @@
 <!-- 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tsingi-chris/Numerical-Analysis"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsingi-chris/Numerical-Analysis"> 
 -->
+
 - [ReadMe in Greek](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis#reedme-in-greek)
 - [ReadMe in English](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis#readme-in-english)
+
+<br/><br/>
+
+## Exam Topics / Θέματα
+In this folder there is an [Exam Topics 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) subfolder that contains :
+- [Πρόοδος 2022](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Numerical-Analysis/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/ARAN_PROODOS2020_LYMENA.pdf) with Solutions pdf,
+- [February 2019 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2019%20with%20solutions) with Solutions,
+- [January 2018 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Numerical-Analysis/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2018%20Ianouarios.jpg),
+- [February 2016 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Numerical-Analysis/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2016%20febrouarios.jpg),
+- and more.
+
+<br/><br/>
+
+
 
 ## ReedMe in Greek
 Αυτός ο φάκελος περιέχει 2 Εργασίες που ανατέθηκαν στην Αριθμητική Ανάλυση (2021-2022). Επιπλέον περιέχει, ότι ανέβηκε στο elearning δηλαδή τις [διαφάνιες](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/Slides) του μαθήματος καθώς και ολοκληρωμένες [σημειώσεις](https://github.com/tsingi-chris/CSD-Auth/blob/main/3rd%20Semester/Numerical-Analysis/Notes.pdf) άγνωστης πηγής.  <br />
