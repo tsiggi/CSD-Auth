@@ -20,7 +20,7 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 - [2nd Semester](https://github.com/tsingi-chris/CSD-Auth#2nd-semester-summer-2020-2021-) ✅
 - [3rd Semester](https://github.com/tsingi-chris/CSD-Auth#3rd-semester-winter-2021-2022-) ✅
 - [4th Semester](https://github.com/tsingi-chris/CSD-Auth#4th-semester-summer-2021-2022-) ✅
-- 5th Semester ⏳
+- [5th Semester](https://github.com/tsingi-chris/CSD-Auth#5th-semester-winter-2022-2023-) ⏳
 - 6th Semester
 - 7th Semester
 - 8th Semester
@@ -52,13 +52,13 @@ Main goal of this repository, is to be a useful studying tool, for anyone studyi
 
 Courses of the 1st semester :
 
-| Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | :--: | :----: |
-| NCO-01-01 | MATHEMATICAL ANALYSIS I              | 5    | ❌    |
-| NCO-01-02 | [INTRODUCTION TO INFORMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics)          | 4    | ✔    |
-| NCO-01-03 | LINEAR ALGEBRA                       | 5    | ❌    |
-| NCO-01-04 | DISCRETE MATHEMATICS                 | 7    | ❌    |
-| NCO-01-05 | BASIC PROGRAMMING PRINCIPLES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         | 9    | ⏳    |
+| Code      | Title                                | Exams | Folder | ECTS |
+| --------- | ------------------------------------ | :---: | :----: | :--: |
+| NCO-01-01 | MATHEMATICAL ANALYSIS I              | ❌    | ❌    | 5    |
+| NCO-01-02 | [INTRODUCTION TO INFORMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics)    | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ✔     | 4    |
+| NCO-01-03 | [LINEAR ALGEBRA 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Linear%20Algebra)                       | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Linear%20Algebra/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ❌    | 5    |
+| NCO-01-04 | [DISCRETE MATHEMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Discrete%20Mathematics)                   | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Discrete%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ❌    | 7    |
+| NCO-01-05 | [BASIC PROGRAMMING PRINCIPLES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ⏳    | 9    |
 <br/>
 
 
@@ -68,13 +68,13 @@ Courses of the 1st semester :
 
 Courses of the 2nd semester :
 
-| Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | :--: | :----: |
-| NCO-02-01 | [MATHEMATICAL ANALYSIS II 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II)  | 5    | ✔    |
-| NCO-02-02 | [PROBABILITIES & STATISTICS 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Probabilities%20%26%20Statistics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 5    | ✔    |
-| NCO-02-03 | [DATA STRUCTURES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures)                      | 7    | ✔    |
-| NCO-02-04 | [DIGITAL DESIGN 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design)                        | 7    | ✔    |
-| NCO-02-05 | THEORY OF COMPUTATION                | 6    | ⏳    |
+| Code      | Title                                | Exams | Folder | ECTS |
+| --------- | ------------------------------------ | :---: | :----: | :--: |
+| NCO-02-01 | [MATHEMATICAL ANALYSIS II 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II)       | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ✔     | 5    |
+| NCO-02-02 | [PROBABILITIES & STATISTICS 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Probabilities%20%26%20Statistics) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Probabilities%20%26%20Statistics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ✔     | 5    |
+| NCO-02-03 | [DATA STRUCTURES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures)                                 | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Data%20Structures/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ✔     | 7    |
+| NCO-02-04 | [DIGITAL DESIGN 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design)                                  | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ✔     | 7    |
+| NCO-02-05 | THEORY OF COMPUTATION                | ❌    | ⏳    | 6    |
 <br/>
 
 
@@ -85,13 +85,13 @@ Courses of the 2nd semester :
 
 Courses of the 3rd semester :
 
-| Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | :--: | :----: |
-| NCO-03-01 | [APPLIED MATHEMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Applied%20Mathematics)          | 7    | ✔    |
-| NCO-03-02 | [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)              | 5    | ✔     |
-| NCO-03-03 | [ELECTRONICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Electronics)                            | 5    | ✔    |
-| NCO-03-04 | OBJECT ORIENTED PROGRAMMING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          | 8    | ⏳    |
-| NCO-03-05 | [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)      | 5    | ✔    |
+| Code      | Title                                | Exams | Folder | ECTS |
+| --------- | ------------------------------------ | :---: | :----: | :--: |
+| NCO-03-01 | [APPLIED MATHEMATICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Applied%20Mathematics)              | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Applied%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ✔     | 7    |
+| NCO-03-02 | [NUMERICAL ANALYSIS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis)                                | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Numerical-Analysis/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ✔     | 5    |
+| NCO-03-03 | [ELECTRONICS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Electronics)                                       | ❌    | ✔     | 5    |
+| NCO-03-04 | [OBJECT ORIENTED PROGRAMMING 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Object%20Oriented%20Programming) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Object%20Oriented%20Programming/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ⏳    | 8    |
+| NCO-03-05 | [COMPUTER ARCHITECTURE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture)            | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Computer%20Architecture/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  |  ✔    | 5    |
 <br/>
 
 
@@ -102,33 +102,33 @@ Courses of the 3rd semester :
 
 Courses of the 4th semester :
 
-| Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | :--: | :----: |
-| NCO-04-01 | PROGRAMMING LANGUAGES AND  COMPILERS | 7    | ⏳    |
-| NCO-04-02 | ARTIFICIAL INTELLIGENCE              | 5.5  | ❌    |
-| NCO-04-03 | ALGORITHMS                           | 7    | ⏳    |
-| NCO-04-04 | HUMAN-COMPUTER INTERACTION           | 5.5  | ⏳    |
-| NCO-04-05 | [DIGITAL COMMUNICATIONS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)          | 5    | ✔    |
-<!--
+| Code      | Title                                | Exams | Folder | ECTS |
+| --------- | ------------------------------------ | :---: | :----: | :--: |
+| NCO-04-01 | [PROGRAMMING LANGUAGES AND  COMPILERS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Programming%20Languages%20and%20Compilers)  | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Programming%20Languages%20and%20Compilers/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ⏳    | 7    |
+| NCO-04-02 | [ARTIFICIAL INTELLIGENCE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Artificial%20Intelligence)  | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Artificial%20Intelligence/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ❌    | 5.5  |
+| NCO-04-03 | [ALGORITHMS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Algorithms)   | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Algorithms/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ⏳    | 7    |
+| NCO-04-04 | [HUMAN-COMPUTER INTERACTION 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Human-Computer%20Interaction)     | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Human-Computer%20Interaction/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ⏳    | 5.5  |
+| NCO-04-05 | [DIGITAL COMMUNICATIONS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)           | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ✔    | 5    |
+
 <br/>
 
 
 
-## 5th Semester (Winter 2021-2022) 📂
-<!-- [Link for this folder]() 
+## [5th Semester (Winter 2022-2023) 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester) 
+<!-- [Link for this folder]() -->
 
 Courses of the 5th semester :
 
-| Code      | Title                                | ECTS | Folder |
-| --------- | ------------------------------------ | :--: | :----: |
-| NCO-05-01 | SIGNALS AND SYSTEMS                  | 7    | ...    |
-| NCO-05-02 | COMMUNICATION NETWORKS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6    | ...    |
-| NCO-05-03 | DATABASES                            | 7    | ...    |
-| NCO-05-04 | OPERATING SYSTEMS                    | 5    | ...    |
-| NCO-05-05 | SOFTWARE ENGINEERING                 | 5    | ...    |
+| Code      | Title                                | Exams | Folder | ECTS |
+| --------- | ------------------------------------ | :---: | :----: | :--: |
+| NCO-05-01 | [SIGNALS AND SYSTEMS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Signals%20and%20Systems)                   | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Signals%20and%20Systems/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ...    | 7    |
+| NCO-05-02 | [COMMUNICATION NETWORKS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Communication%20Networks) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                              | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Communication%20Networks/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ...    | 6    |
+| NCO-05-03 | [DATABASES 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Databases)  | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Databases/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ...    | 7    |
+| NCO-05-04 | [OPERATING SYSTEMS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Operating%20Systems)    | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Operating%20Systems/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ...    | 5    |
+| NCO-05-05 | [SOFTWARE ENGINEERING 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Software%20Engineering)  | [✔](https://github.com/tsingi-chris/CSD-Auth/tree/main/5th%20Semester/Software%20Engineering/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ...    | 5    |
 <br/>
 
--->
+
 <!-- 
 ## 6th Semester
 
