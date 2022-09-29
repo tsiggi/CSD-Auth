@@ -19,7 +19,9 @@ In this folder there is :
     - [5th Exercise 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Assignments/Exercise%205), 
 - a subfolder with the [Lecture Slides 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides), which contains two subfolders :  
     - One for [theory 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides/Introduction%20of%20Informatics%20-%20Theory) and
-    - the other for [python 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides/Introduction%20of%20Informatics%20-%20The%20Python%20programming%20language)
+    - the other for [python 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/Slides/Introduction%20of%20Informatics%20-%20The%20Python%20programming%20language),
+- an [Exam Topics 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) that contains :
+  - [2017 🖼️](https://github.com/tsingi-chris/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2017) exam topics,
 - and a [Notes pdf](https://github.com/tsingi-chris/CSD-Auth/raw/main/1st%20Semester/Introduction%20to%20Informatics/Notes.pdf) (Notes for python). 
 
 <br />

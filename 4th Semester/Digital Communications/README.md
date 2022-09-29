@@ -15,3 +15,6 @@ The Bonus one, is a Parity bit focused assignment, that was made with **Octave**
 <br /><br />
 
 In this folder, exept of the two assignments sub-folders, you can also find the Lecture [Slides 📂]() sub-folder.
+
+Moreover, yoy can find an [Exam Topics 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) folder , that contains :
+- [June 2022 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/4th%20Semester/Digital%20Communications/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2022%20%CE%99%CE%BF%CF%8D%CE%BD%CE%B9%CE%BF%CF%82.jpg).

@@ -1,46 +1,59 @@
 # 4th Semester (Summer 2021-2022)
 
-Courses of the 4th semester
+Courses of the 4th semester :
 
-| Code      | Title                                | Assignments | Slides | Notes | ECTS |
-| --------- | ------------------------------------ | :---------: | :----: | :---: | :---: | 
-| NCO-04-01 | [PROGRAMMING LANGUAGES AND  COMPILERS](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#programming-languages-and-compilers-) |      ⏳    | ⏳    | ❌    | 7    | 
-| NCO-04-02 | ARTIFICIAL INTELLIGENCE              |      ❌    | ❌    | ❌    | 5.5  | 
-| NCO-04-03 | [ALGORITHMS](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#algorithms-)                           |      ⏳    | ⏳    | ❌    | 7    | 
-| NCO-04-04 | [HUMAN-COMPUTER INTERACTION](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#human-computer-interaction-)           |      ⏳    | ⏳    | ❌    | 5.5  | 
-| NCO-04-05 | [DIGITAL COMMUNICATIONS](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#digital-communications-)               |      ✔     | ✔     | ❌    | 5    | 
+| Code      | Title                                | Exam Topics | Assignments | Slides | Notes | 
+| --------- | ------------------------------------ | :---------: | :---------: | :----: | :---: |  
+| NCO-04-01 | [PROGRAMMING LANGUAGES AND  COMPILERS](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#programming-languages-and-compilers-) | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Programming%20Languages%20and%20Compilers/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)     |      ⏳    | ⏳    | ❌    |  
+| NCO-04-02 | [ARTIFICIAL INTELLIGENCE](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Artificial%20Intelligence)      | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Artificial%20Intelligence/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)    |      ❌     | ✔     | ❌    |  
+| NCO-04-03 | [ALGORITHMS](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#algorithms-)                           | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Algorithms/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)     |      ⏳    | ⏳    | ❌    |  
+| NCO-04-04 | [HUMAN-COMPUTER INTERACTION](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#human-computer-interaction-)           | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Human-Computer%20Interaction/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)     |      ⏳    | ⏳    | ❌    |  
+| NCO-04-05 | [DIGITAL COMMUNICATIONS](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester#digital-communications-)               | [ ✔ ](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)    |      ✔     | ✔     | ❌   |  
  
 <br /><br />
 
-## PROGRAMMING LANGUAGES AND COMPILERS ⏳
+## [PROGRAMMING LANGUAGES AND COMPILERS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Programming%20Languages%20and%20Compilers)  
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+At the moment, this folder only contains Exam Topics.<br/>
+The following will be added shortly:
 - Assignment [main (akork) + Others (me)] 
-- Slides <br /><br />
+- Slides 
 
-## ARTIFICIAL INTELLIGENCE ❌
+<br/>
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Maybe in the Future !!!**<br /><br />
+## [ARTIFICIAL INTELLIGENCE 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Artificial%20Intelligence)  
 
+You can find :
+- Exam Topics and 
+- the Lecture Slides.
 
-## ALGORITHMS ⏳
+<br/>
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+## [ALGORITHMS 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Algorithms) 
+
+At the moment, this folder only contains Exam Topics.<br/>
+The following will be added shortly:
 - Assignment 
-- Slides <br /><br />
+- Slides 
 
-## HUMAN-COMPUTER INTERACTION ⏳
+<br />
 
-<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FOLDER NOT READY YET !!!**
+## [HUMAN-COMPUTER INTERACTION 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Human-Computer%20Interaction)
+
+At the moment, this folder only contains Exam Topics.<br/>
+The following will be added shortly:
 - Assignment ( Other or mine )
-- Slides <br /><br />
+- Slides 
+
+<br />
 
 ## [DIGITAL COMMUNICATION 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/4th%20Semester/Digital%20Communications)
 
 Everything you want for Digital Communication course, including :
-* Lecture Slides,
-* CRC assignment and
-* 7th lab solution.
+- Exam Topics,
+- Lecture Slides,
+- CRC assignment and
+- 7th lab solution.
 
 <br />
 

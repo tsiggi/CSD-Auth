@@ -8,7 +8,14 @@ Professor : N.Tsitsas <br/>
 
 Moreover, you can find :
 - the Lecture [Slides 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Applied%20Mathematics/Slides),
-- and my [Notes](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/Applied%20Mathematics%20Notes.pdf).
+- my [Notes](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/Applied%20Mathematics%20Notes.pdf),
+- and an [Exam Topics 📂]() folder, that contains : 
+    - [September 2022 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2022%20%CE%A3%CE%B5%CF%80%CF%84%CE%AD%CE%BC%CE%B2%CF%81%CE%B9%CE%BF%CF%82.jpg),
+    - [February 2022 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2022%20%CE%A6%CE%B5%CE%B2%CF%81%CE%BF%CF%85%CE%AC%CF%81%CE%B9%CE%BF%CF%82.jpg),
+    - [September 2021](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2021_9_21_%CE%95%CE%A6%CE%91%CE%A1%CE%9C%CE%9F%CE%A3%CE%9C%CE%95%CE%9D%CE%91.pdf) pdf,
+    - [June 2021](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2021_6_17_%CE%95%CE%A6%CE%91%CE%A1%CE%9C%CE%9F%CE%A3%CE%9C%CE%95%CE%9D%CE%91.pdf) pdf,
+    - [February 2021](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Applied%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2021_2_17_%CE%95%CE%A6%CE%91%CE%A1%CE%9C%CE%9F%CE%A3%CE%9C%CE%95%CE%9D%CE%91.pdf) pdf,
+    - and a lot more.
 
 <br/>
 

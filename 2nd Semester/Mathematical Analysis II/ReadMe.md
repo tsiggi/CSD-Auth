@@ -11,12 +11,14 @@ Professors :
 <br/>
 
 In this folder you can find : 
-- Lecture [Slides 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides):
+- Lecture [Slides 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides) :
     - [Tsitsas 📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides/Tsitsas) Slides,
     - [Draziotis📁](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/Slides/Draziotis) Slides.
-- my [Notes](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Mathematical%20Analysis%20II/Notes.pdf):
+- my [Notes](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Mathematical%20Analysis%20II/Notes.pdf) :
     - Tsitsas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Notes pages : 1 - &nbsp;48)
     - Draziotis &nbsp;&nbsp;(Notes pages : 48 - 78)
+- and [Exam Topics 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Mathematical%20Analysis%20II/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) :
+    - [June 2022 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Mathematical%20Analysis%20II/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2022%20%CE%99%CE%BF%CF%8D%CE%BD%CE%B9%CE%BF%CF%82.jpeg).
 
 <br/>
 <hr/>

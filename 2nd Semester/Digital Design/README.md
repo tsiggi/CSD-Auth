@@ -11,6 +11,9 @@ This folder contains :
     * the assignment description in GR,
     * the solution and 
     * a report written in GR. 
-* a [Slide folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design/Slides) containing the lecture slides.
+* a [Slide folder 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design/Slides) containing the lecture slides,
+* an [Exam Topics 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/2nd%20Semester/Digital%20Design/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) folder containing :
+    * [June 2022 🖼️](https://github.com/tsingi-chris/CSD-Auth/raw/main/2nd%20Semester/Digital%20Design/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1/2022%20%CE%99%CE%BF%CF%8D%CE%BD%CE%B9%CE%BF%CF%82.jpg).
+
 <br /><br />
 For more information, you can open a folder from above, or you can visit [elearning](https://elearning.auth.gr/course/view.php?id=8105).
