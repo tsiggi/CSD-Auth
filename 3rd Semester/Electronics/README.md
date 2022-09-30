@@ -5,8 +5,8 @@
 <br />
 
 This folder contains : 
-- my [Notes](https://github.com/tsingi-chris/CSD-Auth/blob/main/3rd%20Semester/Electronics/Notes.pdf) [💾](https://github.com/tsingi-chris/CSD-Auth/raw/main/3rd%20Semester/Electronics/Notes.pdf) ,
-- [Lecture Slides 📂](https://github.com/tsingi-chris/CSD-Auth/tree/main/3rd%20Semester/Electronics/Lecture%20Slides)
+- my [Notes](https://github.com/tsiggi/CSD-Auth/blob/main/3rd%20Semester/Electronics/Notes.pdf) [💾](https://github.com/tsiggi/CSD-Auth/raw/main/3rd%20Semester/Electronics/Notes.pdf) ,
+- [Lecture Slides 📂](https://github.com/tsiggi/CSD-Auth/tree/main/3rd%20Semester/Electronics/Lecture%20Slides)
 
 <br />
 
