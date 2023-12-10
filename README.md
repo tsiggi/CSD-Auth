@@ -56,7 +56,7 @@ Courses of the 1st semester :
 | NCO-01-02 | [📂 INTRODUCTION TO INFORMATICS](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics)    | [✔](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Introduction%20to%20Informatics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ✔     | 4    |
 | NCO-01-03 | [📂 LINEAR ALGEBRA](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Linear%20Algebra)                       | [✔](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Linear%20Algebra/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ❌    | 5    |
 | NCO-01-04 | [📂 DISCRETE MATHEMATICS](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Discrete%20Mathematics)                   | [✔](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Discrete%20Mathematics/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1)  | ❌    | 7    |
-| NCO-01-05 | [📂BASIC PROGRAMMING PRINCIPLES](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | [✔](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ⏳    | 9    |
+| NCO-01-05 | [📂BASIC PROGRAMMING PRINCIPLES](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | [✔](https://github.com/tsiggi/CSD-Auth/tree/main/1st%20Semester/Basic%20Programming%20Principles/%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1) | ✔    | 9    |
 <br/>
 
 
